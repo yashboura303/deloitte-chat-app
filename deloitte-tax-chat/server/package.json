@@ -1,0 +1,20 @@
+{
+    "name": "deloitte-tax-chat-server",
+    "version": "1.0.0",
+    "description": "Express server for Deloitte Tax Chat application",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "dependencies": {
+        "cors": "^2.8.5",
+        "deloitte-tax-chat": "file:..",
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "node-fetch": "^2.6.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
