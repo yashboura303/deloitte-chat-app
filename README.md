@@ -47,11 +47,6 @@ As part of the Deloitte Auditor team that specializes in audit development for c
 - Integration with Deloitte's internal systems
 - Advanced filtering of tax information by jurisdiction
 
-### Project Contributors
-
-- [Your Name]
-- [Team Member Names]
-
 ---
 
 *This project was developed as part of the CMPE 280 - Web UI Design and Development course requirements.*
