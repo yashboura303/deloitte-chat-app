@@ -10,7 +10,7 @@ dotenv.config();
 
 // Verify API key is loaded
 const apiKey =
-  process.env.GEMINI_API_KEY || "AIzaSyCdzkk8VvIXYACTK1O4rXAvE-JSxTyV5N8";
+  process.env.GEMINI_API_KEY;
 console.log(
   "API Key loaded:",
   apiKey ? "Yes (length: " + apiKey.length + ")" : "No"
